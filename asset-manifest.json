@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/playbox/static/css/main.82eeaf11.chunk.css",
-    "main.js": "/playbox/static/js/main.7566fdab.chunk.js",
-    "main.js.map": "/playbox/static/js/main.7566fdab.chunk.js.map",
+    "main.js": "/playbox/static/js/main.c5b06828.chunk.js",
+    "main.js.map": "/playbox/static/js/main.c5b06828.chunk.js.map",
     "runtime-main.js": "/playbox/static/js/runtime-main.e9b248b9.js",
     "runtime-main.js.map": "/playbox/static/js/runtime-main.e9b248b9.js.map",
     "static/js/2.9fee9ee7.chunk.js": "/playbox/static/js/2.9fee9ee7.chunk.js",
     "static/js/2.9fee9ee7.chunk.js.map": "/playbox/static/js/2.9fee9ee7.chunk.js.map",
     "index.html": "/playbox/index.html",
-    "precache-manifest.94a2338a7030d64f8a205402a8e45946.js": "/playbox/precache-manifest.94a2338a7030d64f8a205402a8e45946.js",
+    "precache-manifest.67929d6daa5c37faaaad6c1ca3d54b7c.js": "/playbox/precache-manifest.67929d6daa5c37faaaad6c1ca3d54b7c.js",
     "service-worker.js": "/playbox/service-worker.js",
     "static/css/main.82eeaf11.chunk.css.map": "/playbox/static/css/main.82eeaf11.chunk.css.map",
     "static/media/playbox.jpg": "/playbox/static/media/playbox.fed2e853.jpg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e9b248b9.js",
     "static/js/2.9fee9ee7.chunk.js",
     "static/css/main.82eeaf11.chunk.css",
-    "static/js/main.7566fdab.chunk.js"
+    "static/js/main.c5b06828.chunk.js"
   ]
 }
