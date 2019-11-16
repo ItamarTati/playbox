@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/playbox/static/css/main.b100e6da.chunk.css",
+    "main.js": "/playbox/static/js/main.256e58ab.chunk.js",
+    "main.js.map": "/playbox/static/js/main.256e58ab.chunk.js.map",
+    "runtime-main.js": "/playbox/static/js/runtime-main.e9b248b9.js",
+    "runtime-main.js.map": "/playbox/static/js/runtime-main.e9b248b9.js.map",
+    "static/js/2.f3fbcfa6.chunk.js": "/playbox/static/js/2.f3fbcfa6.chunk.js",
+    "static/js/2.f3fbcfa6.chunk.js.map": "/playbox/static/js/2.f3fbcfa6.chunk.js.map",
+    "index.html": "/playbox/index.html",
+    "precache-manifest.bfb7bff03388d3ac22203000d8ce0df4.js": "/playbox/precache-manifest.bfb7bff03388d3ac22203000d8ce0df4.js",
+    "service-worker.js": "/playbox/service-worker.js",
+    "static/css/main.b100e6da.chunk.css.map": "/playbox/static/css/main.b100e6da.chunk.css.map",
+    "static/media/logo.svg": "/playbox/static/media/logo.25bf045c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e9b248b9.js",
+    "static/js/2.f3fbcfa6.chunk.js",
+    "static/css/main.b100e6da.chunk.css",
+    "static/js/main.256e58ab.chunk.js"
+  ]
+}
