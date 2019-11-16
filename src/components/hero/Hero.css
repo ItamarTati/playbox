@@ -1,0 +1,91 @@
+.hero{
+  height: 1000px;
+  width: 100%;
+  z-index:2;
+  padding-top: 3%; 
+  background-color: black; 
+}
+video {
+  height: 1000px;
+  width: 100%
+}
+
+
+
+.hero-text {
+  font-family: 'Oswald', sans-serif;
+  color: white;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  text-align: center;
+  text-shadow:
+  -1px -1px 0 #000,  
+   1px -1px 0 #000,
+   -1px 1px 0 #000,
+    1px 1px 0 #000;
+ }
+ 
+ .hero-text h1 {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.3em;
+  margin-left: 0.5em;
+  margin-top:0.5em;
+ position: relative;
+ }
+ .hero-text p {
+  font-family: 'Roboto', sans-serif;
+  font-size: 1em;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 1.3em;
+  padding-right: 1.3em;
+  margin-top: 0.7em;
+ }
+ .item {
+ 
+  font-size: 1.5em;
+ }
+ 
+ .content {
+  font-size: 0.8em;
+  line-height: 1.5em;
+ }
+ .myBtn {
+  margin-left: 1em;
+  font-size: 1.5em;
+  font-style: bold;
+  padding: 10px;
+  border: none;
+  background-color: blue;
+  color: white;
+  cursor: pointer;
+  position: relative;
+  
+ }
+ .myBtn:hover {  
+  background-color: white;
+  color: black;
+ }
+
+ @media only screen and (max-width: 1000px) {
+  .myBtn{
+    font-size: 0.9em;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .myBtn{
+    font-size: 0.8em;
+  }
+}
+
+@media only screen and (max-width: 500px) {
+  .myBtn{
+    font-size: 0.7em;
+  }
+}
+
+
+ 
